@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: task-extractor-lab
+Version: 0.1.0
+Summary: Lab 01: a minimal LLM request with a testable mocked client
+Requires-Python: >=3.11
+Requires-Dist: openai<4,>=2
+Requires-Dist: pydantic>=2.14.0
+Requires-Dist: python-dotenv<2,>=1
+Provides-Extra: dev
+Requires-Dist: pytest<10,>=8; extra == "dev"

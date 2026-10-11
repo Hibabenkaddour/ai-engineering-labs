@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/task_extractor/__init__.py
+src/task_extractor/clients.py
+src/task_extractor/core.py
+src/task_extractor/local_llm.py
+src/task_extractor/main.py
+src/task_extractor_lab.egg-info/PKG-INFO
+src/task_extractor_lab.egg-info/SOURCES.txt
+src/task_extractor_lab.egg-info/dependency_links.txt
+src/task_extractor_lab.egg-info/requires.txt
+src/task_extractor_lab.egg-info/top_level.txt
+tests/test_core.py

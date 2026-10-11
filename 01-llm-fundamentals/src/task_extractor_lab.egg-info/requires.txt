@@ -1,0 +1,6 @@
+openai<4,>=2
+pydantic>=2.14.0
+python-dotenv<2,>=1
+
+[dev]
+pytest<10,>=8
